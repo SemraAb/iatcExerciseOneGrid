@@ -1,0 +1,24 @@
+
+.img-box
+{
+  position:relative;
+  margin-bottom: 20px;
+}
+.img-box .img-text
+{
+  position:absolute;
+  color: white;
+  background-color: #4aaaa5;
+  /* left: 0; */
+  box-sizing: border-box;
+  bottom: 10px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 18px;
+  width: 100%;
+}
+.img-box img {
+  width: 100%;
+  opacity: 0.8;
+}
+
